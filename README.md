@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @YamindotAI
 - My name is Yamin Arafat Islam
 - 👀 I’m interested in Stand ^ Comedy
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: yaminarafat@usf.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 404
 
